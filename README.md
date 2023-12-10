@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thegrazyman
-- 👀 I’m interested in making mods for minecraft
-- 🌱 I’m currently learning modding in minecraft
-- 💞️ I’m looking to collaborate on minecraft
+- 👀 I’m interested in making messing with people
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate fixing bugs
 - 📫 How to reach me none yet
 
 <!---
